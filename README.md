@@ -1,11 +1,3 @@
-## Tasks
-
-
-[![Netlify Status](https://api.netlify.com/api/v1/badges/8180efbe-ac54-4141-ab98-7004e5f836a6/deploy-status)](https://app.netlify.com/sites/avantikasparihar-todo-app/deploys)
-
-__Check it out__ : https://avantikasparihar-todo-app.netlify.app/
-
-
 # Tasks
 
 A React.js app that maintains the user's personal *Tasks list*.
@@ -36,7 +28,7 @@ The *__Tasks__ app* has the following functionalities :
 Clone the project
 
 ```bash
-  git clone https://github.com/coderraj8989/Text-Formatter.git
+  https://github.com/coderraj8989/Tasks.git
 ```
 
 Go to the project directory
@@ -72,6 +64,6 @@ I'm a full stack developer...
 
   
 ## 🛠 Skills
-Javascript, HTML, CSS...
+ReactJs, Javascript, HTML, CSS, Tailwind CSS, NodeJS, ExpressJS...
 
   
