@@ -15,7 +15,8 @@ The *__Tasks__ app* has the following functionalities :
 
 - [@coderraj8989](https://www.github.com/coderraj8989)
 
-## __Check it out__ : https://tasks-ritikraj.netlify.app/
+## __Check it out__
+- https://tasks-ritikraj.netlify.app/
 
 ## Screenshots
 
